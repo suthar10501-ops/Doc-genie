@@ -1,1 +1,2 @@
-# Doc-genie
+# Doc-genieProject Description
+Doc-Genie - is an intelligent Python documentation platform that leverages Abstract Syntax Tree (AST) analysis and advanced code understanding to provide comprehensive automatic docstring generation with professional styling through Gradio's interactive interface. The platform addresses the challenge of maintaining consistent and accurate Python documentation by delivering AI-powered function analysis, automatic docstring generation, multiple documentation styles (Google/NumPy), intelligent logic detection, and production-ready export capabilities.
